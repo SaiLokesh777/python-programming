@@ -1,0 +1,4 @@
+writing data into  file
+Hello
+Python
+Programming
