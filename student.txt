@@ -1,0 +1,7 @@
+student name :fr
+marks of 5 subjects :[89, 87, 67, 8, 90]
+total marks out of 500 :341
+average marks :68.2
+highest marks :90
+lowest marks :8
+grade :None
